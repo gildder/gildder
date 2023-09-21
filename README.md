@@ -12,18 +12,13 @@
 <a href="https://kaggle.com/gildder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gildder" height="30" width="40" /></a>
 <a href="https://medium.com/gildder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gildder" height="30" width="40" /></a>
 </p>
+
 -------
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{gilberet}/count.svg" alt="gilberet :: Visitor's Count" /></p>
-
-
-
-
-<h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberet&langs_count=10&theme=tokyonight&layout=compact" alt="gilberet :: Top Langs" /></p>
 
