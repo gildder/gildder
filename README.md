@@ -1,17 +1,41 @@
-<h1 align="center">Hi 👋, I'm Gildder</h1>
+### Hi there 👋
+
+### 🌱 I’m currently learning ...
+
+[![Twitter](https://img.shields.io/badge/-Twitter-00adf4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Gildder)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gildder-guerrero-ramirez-bb58895b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gildder.guerrero.ramirez@gmail.com)
+
+<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gilberet)](https://github.com/gilberet/github-readme-stats)
+-->
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=gilberet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="gilberet :: Profile Stats" /></p>
+
+
+<!--
+**Gilberet/gilberet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<br />
+
 <h3 align="center">Soy un analista de datos en crecimiento con experiencia en gestión de almacenes, inventario y configuración de WMS. Utilizo mis habilidades en Python y R para analizar datos y contribuir en la planificación de la demanda, ayudando a tomar decisiones comerciales más informadas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gildder&label=Profile%20views&color=0e75b6&style=flat" alt="gildder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gildder" alt="gildder" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gildder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gildder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gildder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gildder" height="30" width="40" /></a>
-<a href="https://kaggle.com/gildder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gildder" height="30" width="40" /></a>
-<a href="https://medium.com/gildder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gildder" height="30" width="40" /></a>
-</p>
 
 -------
 
@@ -32,10 +56,10 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gildder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gildder" /></a></p><br><br>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gildder&show_icons=true&locale=en&layout=compact" alt="gildder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gildder&show_icons=true&locale=en" alt="gildder" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gildder&show_icons=true&locale=en" alt="gildder" /></p>
+
+<p><a href="https://www.buymeacoffee.com/gildder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gildder" /></a></p><br><br>
 
