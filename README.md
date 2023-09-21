@@ -1,3 +1,5 @@
+<p><a href="https://www.buymeacoffee.com/gildder"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gildder" /></a></p><br><br>
+
 ### Hi there 👋
 
 ### 🌱 I’m currently learning ...
@@ -46,9 +48,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gildder&show_icons=true&locale=en&layout=compact" alt="gildder" /></p><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gildder&show_icons=true&locale=en" alt="gildder" /></p><br>
 
-<p><a href="https://www.buymeacoffee.com/gildder"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gildder" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gildder&show_icons=true&locale=en&layout=compact" alt="gildder" /></p>
